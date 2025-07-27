@@ -467,7 +467,6 @@ footer {
     display: none;
     padding-top: 40px;
     background-color: transparent;
-    border: 1px solid red;
   }
 
   .navbar #navbar_toggle:checked + .navbar-nav {
