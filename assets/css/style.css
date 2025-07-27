@@ -565,7 +565,7 @@ footer {
   }
 }
 
-@media (max-width: 580px) {
+@media (max-width: 480px) {
   h1 {
     font-size: 18px;
   }
